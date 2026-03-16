@@ -4,7 +4,7 @@
 <!-- ANIMATED TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C47FF&center=true&vCenter=true&width=650&lines=7%2B+Years+of+MERN+Stack+Experience+%F0%9F%9A%80;React+%7C+Next.js+%7C+NestJS+%7C+GraphQL;Building+Scalable+Web+Applications+%F0%9F%8C%90;Clean+Code+%E2%9C%85+%7C+Great+UX+%F0%9F%8E%AF+%7C+Real+Impact+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C47FF&center=true&vCenter=true&width=650&lines=5%2B+Years+of+MERN+Stack+Experience+%F0%9F%9A%80;React+%7C+Next.js+%7C+NestJS+%7C+GraphQL;Building+Scalable+Web+Applications+%F0%9F%8C%90;Clean+Code+%E2%9C%85+%7C+Great+UX+%F0%9F%8E%AF+%7C+Real+Impact+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <!-- VISITOR & SOCIAL BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mAsadSiddique&label=Profile+Views&color=6C47FF&style=flat-square)
